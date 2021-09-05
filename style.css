@@ -1,0 +1,109 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #E5E5E5;
+}
+
+#yoga-symbol{
+    margin-top: 195px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 122px;
+}
+
+input{
+    display: block;
+    height: 46px;
+    width: 321px;
+    border-radius: 10px;
+    background-color:#F6F6F6;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border: none;
+    margin: 0 auto;
+}
+
+.password{
+    margin-top: 21px;
+    margin-bottom: 35px;
+}
+
+#forgot-password{
+
+    text-align: right;
+    display: block;
+    font-size: 13px;
+    line-height: 15px;
+    margin-right: 59px;
+    margin-bottom: 38px;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+    text-decoration: none;
+
+}
+
+input::placeholder{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #969696;
+    padding-left: 19px;
+}
+
+button{
+    margin: 0 auto;
+    display: block;
+    height: 46px;
+    width: 133px;
+    border-radius: 10px;
+    background-color: #323232;
+    margin-bottom: 22px;
+    border: none;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#not-account{
+    margin-bottom: 62px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+strong{
+    color:#323232
+}
+
+p{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+
+    }
+
+div{
+    text-align: center;
+    margin-top: 18px;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.status-fone{
+    height: 44px;
+    width: 360px;
+ 
+}
