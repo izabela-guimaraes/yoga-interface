@@ -1,14 +1,19 @@
 # Yoga interface 
 
-##Resultado final:
-<img src="./result.jpeg" alt="Application result ">
+<h3>Final result:</h3>
+<br>
 
-##To see the second page of the project <a>click here</a>
+<img src="./result.jpeg" alt="Application result ">
+<br><br>
+
+<h4>To see the second page of the project <a href: >click here</a></h4>
 
 🚀 Technologies
 This project was developed with the following technologies:
+<br>
 
 -html
+<br>
 -css
 
 
