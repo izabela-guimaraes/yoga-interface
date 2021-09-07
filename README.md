@@ -1,7 +1,15 @@
-# Yoga interface
+# Yoga interface 
 
+##Resultado final:
+<img src="./result.jpeg" alt="Application result ">
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+##To see the second page of the project <a>click here</a>
+
+🚀 Technologies
+This project was developed with the following technologies:
+
+-html
+-css
 
 
 ## 🤝 Colaboradores
@@ -12,24 +20,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img  width="100em" src="./izabela guimaraes..jpeg"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Izabela Guimarães</b>
         </sub>
       </a>
     </td>
   
 </table>
 
-
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
 
  
