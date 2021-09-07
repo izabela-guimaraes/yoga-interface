@@ -7,8 +7,7 @@
 <h3>Final result:</h3>
 <br>
 <img src="./assets/Final result 1.jpeg" alt="Application result ">
-
-<br><br>
+<br>
 
 
 <h4>To see the second page of the project <a href: >click here</a></h4>
