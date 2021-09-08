@@ -11,7 +11,7 @@
 
 
 
-<h4>To see the first page of the project <a href="https://github.com/izabela-guimaraes/yoga-interface-2" target="blank">click here</a></h4>
+<h4>To see the second page of the project <a href="https://github.com/izabela-guimaraes/yoga-interface-2" target="blank">click here</a></h4>
 
 🚀 Technologies
 This project was developed with the following technologies:
