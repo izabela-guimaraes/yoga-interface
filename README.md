@@ -10,6 +10,9 @@
 <br>
 
 
+<h4><a href="https://izabela-guimaraes.github.io/yoga-interface/" target="blank">Click here to see the application working</a></h4>
+
+<br>
 
 <h4>To see the second page of the project <a href="https://github.com/izabela-guimaraes/yoga-interface-2" target="blank">click here</a></h4>
 
